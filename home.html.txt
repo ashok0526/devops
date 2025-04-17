@@ -1,0 +1,6 @@
+<html>
+<body>
+</body>
+<h1> Home page <h1>
+<p> Ashok docker projects </p>
+</html>
